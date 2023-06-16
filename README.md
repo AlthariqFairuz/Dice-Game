@@ -1,0 +1,2 @@
+# Dice-Game
+Simulasi Gacha
